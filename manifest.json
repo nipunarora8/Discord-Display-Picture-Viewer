@@ -1,0 +1,11 @@
+{
+    "name": "Discord DP Viewer",
+    "description": "Rom Rom Bhai, AV Karoge? Mauj Karoge?",
+    "version": "0.01",
+    "manifest_version": 2,
+    "browser_action":{
+        "default_title": "AV HTML",
+        "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab","storage"]
+}
